@@ -4,6 +4,7 @@
 - [final 키워드는 왜 사용할까?](https://codingmon.tistory.com/39)
 - [Module Factory 사용시 장점](https://github.com/ffalswo2/iOSCS/issues/3)
 - [메모리 힙할당 줄이기 누수 해결](https://codingmon.tistory.com/33)
+- [ModuleFactory: Factory Method Pattern & DI](https://codingmon.tistory.com/41)
 ## WWDC
 - [WWDC16 Understanding Swift Performance - 1](https://codingmon.tistory.com/29)
 - [WWDC16 Understanding Swift Performance - 2](https://codingmon.tistory.com/31)
