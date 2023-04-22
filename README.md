@@ -12,6 +12,8 @@
 - [WWDC16 Understanding Swift Performance - 2](https://codingmon.tistory.com/31)
 - [WWDC21 Use async/await with URLSession + 적용](https://codingmon.tistory.com/35)
 - [WWDC18 Memory Deep dive - 1](https://codingmon.tistory.com/36)
+- [WWDC21 ARC in Swift: Basics and beyond](https://complex-rook-29b.notion.site/WWDC21-ARC-in-Swift-Basics-and-beyond-ae44f7a421214d94bd034d6a59bdf2ba)
+- [WWDC22 Embrace Swift generics](https://complex-rook-29b.notion.site/WWDC22-Embrace-Swift-generics-27000d8eeebe49e7b9de860cb9bbc56a)
 ## Design Pattern
 - [Singleton](https://codingmon.tistory.com/30)
 - [Coordinator](https://codingmon.tistory.com/32)
