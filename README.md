@@ -5,6 +5,7 @@
 - [Module Factory 사용시 장점](https://github.com/ffalswo2/iOSCS/issues/3)
 - [메모리 힙할당 줄이기 누수 해결](https://codingmon.tistory.com/33)
 - [ModuleFactory: Factory Method Pattern & DI](https://codingmon.tistory.com/41)
+- [Closure Capture list, ARC, AnyObject까지 연결지어서 정리](https://codingmon.tistory.com/43)
 - [struct init](https://codingmon.tistory.com/44)
 - [class init](https://codingmon.tistory.com/45)
 ## iOS
