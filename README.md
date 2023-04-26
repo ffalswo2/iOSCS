@@ -5,6 +5,7 @@
 - [Module Factory 사용시 장점](https://github.com/ffalswo2/iOSCS/issues/3)
 - [메모리 힙할당 줄이기 누수 해결](https://codingmon.tistory.com/33)
 - [ModuleFactory: Factory Method Pattern & DI](https://codingmon.tistory.com/41)
+- [struct init](https://codingmon.tistory.com/44)
 ## iOS
 - [BottomSheet 구현 중 시행착오 + 해결과정(PanGesture, CGAffineTransform)](https://codingmon.tistory.com/42)
 ## WWDC
